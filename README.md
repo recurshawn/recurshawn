@@ -1,12 +1,18 @@
 # Shawn Pereira
 I'm a 20 year old side-project shipper living in Goa, India!
 
-Bio in Progress
+## 🔧My Solo Projects:
+- [WhatsAppr.com](https://whatsappr.com)
+- [Own2020s.com](https://own2020s.com)
+- [HowBadIsCorona.com](https://howbadiscorona.com)
+
+## 👯Team Projects:
+-[A COVID19 Dashboard for District Magistrates](https://outbreakcontrolroom.com/)
 
 ### 📫 How to reach me
 - [shawnpereira.me (Website)](https://shawnpereira.me/)
-- [@Incept_shawn on Twitter](https://twitter.com/Incept_shawn)
-- [shawn-pereira on LinkedIn](https://www.linkedin.com/in/shawn-pereira/)
+- [@Incept_shawn](https://twitter.com/Incept_shawn) on Twitter
+- [shawn-pereira](https://www.linkedin.com/in/shawn-pereira/) on LinkedIn
 
 <!--
 **recurshawn/recurshawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
