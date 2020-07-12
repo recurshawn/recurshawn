@@ -7,7 +7,7 @@ I'm a 20 year old side-project shipper living in Goa, India!
 - [HowBadIsCorona.com](https://howbadiscorona.com)
 
 ## 👯Team Projects:
--[A COVID19 Dashboard for District Magistrates](https://outbreakcontrolroom.com/)
+- [A COVID19 Dashboard for District Magistrates](https://outbreakcontrolroom.com/)
 
 ### 📫 How to reach me
 - [shawnpereira.me (Website)](https://shawnpereira.me/)
