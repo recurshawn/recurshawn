@@ -1,7 +1,13 @@
 # Shawn Pereira
+I'm a 20 year old side-project shipper living in Goa, India!
 
+Bio in Progress
 
-- 📫 How to reach me: @Incept_shawn on Twitter
+### 📫 How to reach me
+- [shawnpereira.me (Website)](https://shawnpereira.me/)
+- [@Incept_shawn on Twitter](https://twitter.com/Incept_shawn)
+- [shawn-pereira on LinkedIn](https://www.linkedin.com/in/shawn-pereira/)
+
 <!--
 **recurshawn/recurshawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
