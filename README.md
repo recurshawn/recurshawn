@@ -19,7 +19,7 @@ A tool to visualizer how much free time one can save in the new year or the new 
 ## 👯Team Projects:
 ### [A COVID19 Dashboard for District Magistrates](https://outbreakcontrolroom.com/)
 
-### 📫 How to reach me
+## 📫 How to reach me
 - [shawnpereira.me (Website)](https://shawnpereira.me/)
 - [@Incept_shawn](https://twitter.com/Incept_shawn) on Twitter
 - [shawn-pereira](https://www.linkedin.com/in/shawn-pereira/) on LinkedIn
