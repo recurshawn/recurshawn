@@ -1,4 +1,4 @@
-# Shawn Pereira
+# [Shawn Pereira](https://shawnpereira.me/)
 I'm a 20 year old side-project shipper living in Goa, India!
 
 ## 🔧My Solo Projects:
