@@ -15,7 +15,8 @@ A tool to visualize how much free time one can save in the new year or the new d
 ⚡ Fun fact: Conceptualized, hacked and launched this on Product Hunt in ~15 hours!
 
 ### [HowBadIsCorona.com](https://howbadiscorona.com)
-A website to visualize h
+A website to visualize how dangerous the exponential growth of COVID-19 can be!
+
 ## 👯Team Projects:
 ### [A COVID19 Dashboard for District Magistrates](https://outbreakcontrolroom.com/)
 
