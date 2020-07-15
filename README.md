@@ -5,12 +5,12 @@ I'm a 20 year old side-project shipper living in Goa, India!
 ### [WhatsAppr.com](https://whatsappr.com)
 A webapp that generates WhatsApp message URLs easily and makes bulk WhatsApp messaging & messaging unsaved numbers simpler.
 
-**Product #4 for the day** on **September 8, 2019** on **Product Hunt**
+**Product #4 for the day** on **September 8, 2019** on **Product Hunt**. [Check the launch here!](https://www.producthunt.com/posts/whatsappr)
 
 ### [Own2020s.com](https://own2020s.com)
 A tool to visualizer how much free time one can save in the new year or the new decade.
 
-**Product #3 for the day** on **January 2, 2020** on **Product Hunt**
+**Product #3 for the day** on **January 2, 2020** on **Product Hunt**. [Check the launch here!](https://www.producthunt.com/posts/own-the-2020s)
 
 ⚡ Fun fact: Conceptualized, hacked and launched this on Product Hunt in ~15 hours!
 
