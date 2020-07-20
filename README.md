@@ -1,5 +1,6 @@
 # [Shawn Pereira](https://shawnpereira.me/)
-I'm a 20 year old side-project shipper living in Goa, India!
+I'm a 20 year old aspiring entrepreneur living in Goa, India🏖️🌴
+Currently testing my ideas by building side projects in the hope of starting-up someday soon :) 
 
 ## 🔧My Solo Projects:
 ### [WhatsAppr.com](https://whatsappr.com)
