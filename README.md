@@ -3,7 +3,7 @@ I'm a 20 year old aspiring entrepreneur living in Goa, India🏖️🌴
 Currently testing my ideas by building side projects in the hope of starting-up someday soon :) 
 
 ## 🔧My Solo Projects:
-### [💬 WhatsAppr.com](https://whatsappr.com)
+### [💬 WhatSharer.com](https://whatsharer.com)
 A webapp that lets you text unsaved number & generate WhatsApp message URLs easily and makes bulk WhatsApp messaging & messaging unsaved numbers simpler.
 
 **Product #4 for the day** on **September 8, 2019** on **Product Hunt**. [Check the launch here!](https://www.producthunt.com/posts/whatsappr)
