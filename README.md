@@ -4,7 +4,7 @@ Currently testing my ideas by building side projects in the hope of starting-up 
 
 ## 🔧My Solo Projects:
 ### [💬 WhatsAppr.com](https://whatsappr.com)
-A webapp that generates WhatsApp message URLs easily and makes bulk WhatsApp messaging & messaging unsaved numbers simpler.
+A webapp that lets you text unsaved number & generate WhatsApp message URLs easily and makes bulk WhatsApp messaging & messaging unsaved numbers simpler.
 
 **Product #4 for the day** on **September 8, 2019** on **Product Hunt**. [Check the launch here!](https://www.producthunt.com/posts/whatsappr)
 
