@@ -1,6 +1,5 @@
 # [Shawn Pereira](https://shawnpereira.me/)
-![Hits](https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=https%3A%2F%2Fgithub.com%2Frecurshawn)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frecurshawn)
+
 **Currently building the future of social interactions online 👀** Ping me on Twitter if you want to help out!
 
 I'm a 20 year old aspiring entrepreneur living in Goa, India🏖️🌴
@@ -31,6 +30,7 @@ A dashboard built for District Magistrates in 700+ Indian Districts to tackle CO
 - [@Incept_shawn](https://twitter.com/Incept_shawn) on Twitter
 - [shawn-pereira](https://www.linkedin.com/in/shawn-pereira/) on LinkedIn
 
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frecurshawn" alt="Hits" style="display: none;">
 <!--
 **recurshawn/recurshawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
