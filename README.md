@@ -2,7 +2,7 @@
 
 **Currently building the future of social interactions online 👀** Ping me on Twitter if you want to help out!
 
-I'm a 20 year old aspiring entrepreneur living in Goa, India🏖️🌴
+I'm a 21 year old builder living in Goa, India🏖️🌴
 
 
 ## 🔧My Solo Projects:
