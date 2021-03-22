@@ -29,8 +29,6 @@ A dashboard built for District Magistrates in 700+ Indian Districts to tackle CO
 - [shawnpereira.me (Website)](https://shawnpereira.me/)
 - [@Incept_shawn](https://twitter.com/Incept_shawn) on Twitter
 - [shawn-pereira](https://www.linkedin.com/in/shawn-pereira/) on LinkedIn
-
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frecurshawn" alt="Hits" style="display: none;">
 <!--
 **recurshawn/recurshawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
