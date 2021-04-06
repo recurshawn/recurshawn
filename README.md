@@ -1,15 +1,18 @@
 # [Shawn Pereira](https://shawnpereira.me/)
 
-**Currently building the future of social interactions online 👀** Ping me on Twitter if you want to help out!
+I'm a 21 year old maker & *someday startupper* living in Goa, India🏖️🌴
 
-I'm a 21 year old builder living in Goa, India🏖️🌴
+I'm primarily a full-stack web developer (ReactJS + NodeJS/Express) who can prototype ideas very, very quickly. I enjoy the process of creating something valuable and cool.
 
+Other technologies I use and (am actively exploring) are Web 3.0 and Deep Learning. 
+
+**I'm currently building the future of social interactions online 👀** Ping me on Twitter if you want to help out!	
 
 ## 🔧My Solo Projects:
 ### [💬 WhatSharer.com](https://whatsharer.com)
 A webapp that lets you text unsaved number & generate WhatsApp message URLs easily and makes bulk WhatsApp messaging & messaging unsaved numbers simpler.
 
-**Product #4 for the day** on **September 8, 2019** on **Product Hunt**. [Check the launch here!](https://www.producthunt.com/posts/whatsappr)
+**Product #4 for the day** on **September 8, 2019** on **Product Hunt**. [Check the launch here!](https://www.producthunt.com/posts/whatsharer)
 
 ### [🚀 Own2020s.com](https://own2020s.com)
 A tool to visualize how much free time one can save in the new year or the new decade.
