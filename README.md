@@ -1,6 +1,6 @@
 # [Shawn Pereira](https://shawnpereira.me/)
 
-I'm a 21 year old maker & *someday startupper* living in Goa, India🏖️🌴
+I'm a 21 year old maker living in Goa, India🏖️🌴
 
 I'm primarily a full-stack web developer (ReactJS + NodeJS/Express) who can prototype ideas very, very quickly. I enjoy the process of creating something valuable and cool.
 
