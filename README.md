@@ -6,7 +6,6 @@ I'm primarily a full-stack web developer (ReactJS + NodeJS/Express) who can prot
 
 Other technologies I use and (am actively exploring) are Web 3.0 and Deep Learning. 
 
-**I'm currently building the future of social interactions online 👀** Ping me on Twitter if you want to help out!	
 
 ## 🔧My Solo Projects:
 ### [💬 WhatSharer.com](https://whatsharer.com)
