@@ -1,6 +1,6 @@
 # [Shawn Pereira](https://shawnpereira.me/)
 
-I'm a 21 year old maker living in Goa, India🏖️🌴
+I'm an engineer & hacker based in Bangalore, India.
 
 I'm primarily a full-stack web developer (ReactJS + NodeJS/Express) who can prototype ideas very, very quickly. I enjoy the process of creating something valuable and cool.
 
@@ -29,8 +29,8 @@ A website to visualize how dangerous the exponential growth of COVID-19 can be!
 A dashboard built for District Magistrates in 700+ Indian Districts to tackle COVID-19 at the grassroot level in India. Effort associated with [endcoronavirus.org](https://www.endcoronavirus.org/)
 
 ## 📫 How to reach me
-- [shawnpereira.me (Website)](https://shawnpereira.me/)
-- [@Incept_shawn](https://twitter.com/Incept_shawn) on Twitter
+- [shawn.app (Website)](https://shawn.app/)
+- [@recurshawn](https://twitter.com/recurshawn) on Twitter
 - [shawn-pereira](https://www.linkedin.com/in/shawn-pereira/) on LinkedIn
 <!--
 **recurshawn/recurshawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
