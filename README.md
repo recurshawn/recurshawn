@@ -1,10 +1,10 @@
-# [Shawn Pereira](https://shawnpereira.me/)
+# [Shawn Pereira](https://shawn.app/)
 
 I'm an engineer & hacker based in Bangalore, India.
 
 I'm primarily a full-stack web developer (ReactJS + NodeJS/Express) who can prototype ideas very, very quickly. I enjoy the process of creating something valuable and cool.
 
-Other technologies I use and (am actively exploring) are Web 3.0 and Deep Learning. 
+Another technology I'm actively exploring is Deep Learning. 
 
 
 ## 🔧My Solo Projects:
