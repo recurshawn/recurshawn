@@ -2,13 +2,11 @@
 
 I'm an engineer & hacker based in Bangalore, India.
 
-I'm primarily a full-stack web developer (ReactJS + NodeJS/Express) who can prototype ideas very, very quickly. I enjoy the process of creating something valuable and cool.
-
-Another technology I'm actively exploring is Deep Learning. 
+I'm primarily a full-stack web developer (ReactJS + NodeJS/Express) who can prototype ideas very, very quickly. I enjoy the process of creating something valuable and cool. I'm actively exploring Deep Learning right now. 
 
 
 ## 🔧My Solo Projects:
-### [💬 WhatSharer.com](https://whatsharer.com)
+### [💬 WhatSharer](https://whatsharer.vercel.app)
 A webapp that lets you text unsaved number & generate WhatsApp message URLs easily and makes bulk WhatsApp messaging & messaging unsaved numbers simpler.
 
 **Product #4 for the day** on **September 8, 2019** on **Product Hunt**. [Check the launch here!](https://www.producthunt.com/posts/whatsharer)
