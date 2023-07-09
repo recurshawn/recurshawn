@@ -22,7 +22,7 @@ A tool to visualize how much free time one can save in the new year or the new d
 A website to visualize how dangerous the exponential growth of COVID-19 can be!
 
 ## 🤝Team Projects:
-### [🏥 A COVID-19 Dashboard for District Magistrates](https://outbreakcontrolroom.com/)
+### [🏥 A COVID-19 Dashboard for District Magistrates]
 A dashboard built for District Magistrates in 700+ Indian Districts to tackle COVID-19 at the grassroot level in India. Effort associated with [endcoronavirus.org](https://www.endcoronavirus.org/)
 
 ## 📫 How to reach me
