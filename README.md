@@ -1,31 +1,11 @@
 # [Shawn Pereira](https://shawn.app/)
 
-I'm an engineer & hacker based in Bangalore, India.
+23-year-old human Swiss-Army knife. I'm an engineer in the process of becoming a scientist. I currently manipulate bits & atoms but aspire to manipulate spacetime someday.
 
-I'm primarily a full-stack web developer (ReactJS + NodeJS/Express) who can prototype ideas very, very quickly. I enjoy the process of creating something valuable and cool. I'm actively exploring Deep Learning right now. 
+## 📍 IRL:
+Goa 🌴 ↔️ Bangalore 🏙️
 
-
-## 🔧My Solo Projects:
-### [💬 WhatSharer](https://whatsharer.vercel.app)
-A webapp that lets you text unsaved number & generate WhatsApp message URLs easily and makes bulk WhatsApp messaging & messaging unsaved numbers simpler.
-
-**Product #4 for the day** on **September 8, 2019** on **Product Hunt**. [Check the launch here!](https://www.producthunt.com/posts/whatsharer)
-
-### [🚀 Own2020s.com](https://own2020s.com)
-A tool to visualize how much free time one can save in the new year or the new decade.
-
-**Product #3 for the day** on **January 2, 2020** on **Product Hunt**. [Check the launch here!](https://www.producthunt.com/posts/own-the-2020s)
-
-⚡ Fun fact: Conceptualized, hacked and launched this on Product Hunt in ~15 hours!
-
-### [😷 HowBadIsCorona](https://howbadiscorona.netlify.app/)
-A website to visualize how dangerous the exponential growth of COVID-19 can be!
-
-## 🤝Team Projects:
-### 🏥 A COVID-19 Dashboard for District Magistrates
-A dashboard built for District Magistrates in 700+ Indian Districts to tackle COVID-19 at the grassroot level in India. Effort associated with [endcoronavirus.org](https://www.endcoronavirus.org/)
-
-## 📫 How to reach me
+## 🌐 URL:
 - [shawn.app (Website)](https://shawn.app/)
 - [@recurshawn](https://twitter.com/recurshawn) on Twitter
 - [shawn-pereira](https://www.linkedin.com/in/shawn-pereira/) on LinkedIn
