@@ -1,9 +1,15 @@
 # [Shawn Pereira](https://shawn.app/)
 
-23-year-old human Swiss-Army knife. I'm an engineer in the process of becoming a scientist. I currently manipulate bits & atoms but aspire to manipulate spacetime someday.
+23-year-old human Swiss-Army knife. 
+
+I'm an engineer in the process of becoming a scientist.
+
+I build a lot of stuff, check some of it out!
+
+I currently manipulate bits & atoms but aspire to manipulate spacetime someday.
 
 ## 📍 IRL:
-Goa 🌴 ↔️ Bangalore 🏙️
+🌴 Goa  ↔️  🏙️ Bangalore 
 
 ## 🌐 URL:
 - [shawn.app (Website)](https://shawn.app/)
