@@ -1,10 +1,10 @@
 # [Shawn Pereira](https://shawn.app/)
 
-23-year-old human Swiss-Army knife. 
+I'm 23 and an aspiring human Swiss-Army knife. 
 
-I'm an engineer in the process of becoming a scientist.
+I'm primarily an engineer and a scientist focused on full-stack web dev, deep learning and physics.
 
-I build a lot of stuff, check some of it out!
+I make a lot of stuff, I enjoy building things.
 
 I currently manipulate bits & atoms but aspire to manipulate spacetime someday.
 
