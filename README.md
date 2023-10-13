@@ -1,15 +1,11 @@
 # [Shawn Pereira](https://shawn.app/)
 
-I'm 23 and an aspiring human Swiss-Army knife. 
-
-I'm primarily an engineer and a scientist focused on full-stack web dev, deep learning and physics.
-
-I make a lot of stuff, I enjoy building things.
+I'm a 24 year old human Swiss army knife building at the intersection of physics and AGI.
 
 I currently manipulate bits & atoms but aspire to manipulate spacetime someday.
 
 ## 📍 IRL:
-🌴 Goa  ↔️  🏙️ Bangalore 
+🌴 Goa
 
 ## 🌐 URL:
 - [shawn.app (Website)](https://shawn.app/)
