@@ -1,6 +1,6 @@
 # [Shawn Pereira](https://shawn.app/)
 
-I'm a 24 year old human Swiss army knife building at the intersection of physics and AGI.
+I'm a 24 year old human Swiss army knife working with math, physics and general-intelligence.
 
 I currently manipulate bits & atoms but aspire to manipulate spacetime someday.
 
