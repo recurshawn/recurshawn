@@ -1,14 +1,14 @@
-# [Shawn Pereira](https://shawn.app/)
+# [Shawn Pereira](https://recurshawn.com/)
 
-I'm a 24 year old human Swiss army knife working with math, physics and general-intelligence.
+I'm a 25 year old human Swiss army knife working with math, physics and general-intelligence.
 
 I currently manipulate bits & atoms but aspire to manipulate spacetime someday.
 
 ## 📍 IRL:
-🌴 Goa
+🌴 Goa <-> 🏙️ Bangalore
 
 ## 🌐 URL:
-- [shawn.app (Website)](https://shawn.app/)
+- [recurshawn.com (Website)](https://recurshawn.com/)
 - [@recurshawn](https://twitter.com/recurshawn) on Twitter
 - [shawn-pereira](https://www.linkedin.com/in/shawn-pereira/) on LinkedIn
 <!--
